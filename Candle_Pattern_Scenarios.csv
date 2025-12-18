@@ -1,0 +1,541 @@
+body_type,wick,volume,gap,position
+bullish,no wick,low volume,gap up,support zone
+bullish,no wick,low volume,gap up,resistance zone
+bullish,no wick,low volume,gap up,mid-range
+bullish,no wick,low volume,gap up,breakout level
+bullish,no wick,low volume,gap up,retest level
+bullish,no wick,low volume,gap down,support zone
+bullish,no wick,low volume,gap down,resistance zone
+bullish,no wick,low volume,gap down,mid-range
+bullish,no wick,low volume,gap down,breakout level
+bullish,no wick,low volume,gap down,retest level
+bullish,no wick,low volume,no gap,support zone
+bullish,no wick,low volume,no gap,resistance zone
+bullish,no wick,low volume,no gap,mid-range
+bullish,no wick,low volume,no gap,breakout level
+bullish,no wick,low volume,no gap,retest level
+bullish,no wick,average volume,gap up,support zone
+bullish,no wick,average volume,gap up,resistance zone
+bullish,no wick,average volume,gap up,mid-range
+bullish,no wick,average volume,gap up,breakout level
+bullish,no wick,average volume,gap up,retest level
+bullish,no wick,average volume,gap down,support zone
+bullish,no wick,average volume,gap down,resistance zone
+bullish,no wick,average volume,gap down,mid-range
+bullish,no wick,average volume,gap down,breakout level
+bullish,no wick,average volume,gap down,retest level
+bullish,no wick,average volume,no gap,support zone
+bullish,no wick,average volume,no gap,resistance zone
+bullish,no wick,average volume,no gap,mid-range
+bullish,no wick,average volume,no gap,breakout level
+bullish,no wick,average volume,no gap,retest level
+bullish,no wick,high volume,gap up,support zone
+bullish,no wick,high volume,gap up,resistance zone
+bullish,no wick,high volume,gap up,mid-range
+bullish,no wick,high volume,gap up,breakout level
+bullish,no wick,high volume,gap up,retest level
+bullish,no wick,high volume,gap down,support zone
+bullish,no wick,high volume,gap down,resistance zone
+bullish,no wick,high volume,gap down,mid-range
+bullish,no wick,high volume,gap down,breakout level
+bullish,no wick,high volume,gap down,retest level
+bullish,no wick,high volume,no gap,support zone
+bullish,no wick,high volume,no gap,resistance zone
+bullish,no wick,high volume,no gap,mid-range
+bullish,no wick,high volume,no gap,breakout level
+bullish,no wick,high volume,no gap,retest level
+bullish,top wick,low volume,gap up,support zone
+bullish,top wick,low volume,gap up,resistance zone
+bullish,top wick,low volume,gap up,mid-range
+bullish,top wick,low volume,gap up,breakout level
+bullish,top wick,low volume,gap up,retest level
+bullish,top wick,low volume,gap down,support zone
+bullish,top wick,low volume,gap down,resistance zone
+bullish,top wick,low volume,gap down,mid-range
+bullish,top wick,low volume,gap down,breakout level
+bullish,top wick,low volume,gap down,retest level
+bullish,top wick,low volume,no gap,support zone
+bullish,top wick,low volume,no gap,resistance zone
+bullish,top wick,low volume,no gap,mid-range
+bullish,top wick,low volume,no gap,breakout level
+bullish,top wick,low volume,no gap,retest level
+bullish,top wick,average volume,gap up,support zone
+bullish,top wick,average volume,gap up,resistance zone
+bullish,top wick,average volume,gap up,mid-range
+bullish,top wick,average volume,gap up,breakout level
+bullish,top wick,average volume,gap up,retest level
+bullish,top wick,average volume,gap down,support zone
+bullish,top wick,average volume,gap down,resistance zone
+bullish,top wick,average volume,gap down,mid-range
+bullish,top wick,average volume,gap down,breakout level
+bullish,top wick,average volume,gap down,retest level
+bullish,top wick,average volume,no gap,support zone
+bullish,top wick,average volume,no gap,resistance zone
+bullish,top wick,average volume,no gap,mid-range
+bullish,top wick,average volume,no gap,breakout level
+bullish,top wick,average volume,no gap,retest level
+bullish,top wick,high volume,gap up,support zone
+bullish,top wick,high volume,gap up,resistance zone
+bullish,top wick,high volume,gap up,mid-range
+bullish,top wick,high volume,gap up,breakout level
+bullish,top wick,high volume,gap up,retest level
+bullish,top wick,high volume,gap down,support zone
+bullish,top wick,high volume,gap down,resistance zone
+bullish,top wick,high volume,gap down,mid-range
+bullish,top wick,high volume,gap down,breakout level
+bullish,top wick,high volume,gap down,retest level
+bullish,top wick,high volume,no gap,support zone
+bullish,top wick,high volume,no gap,resistance zone
+bullish,top wick,high volume,no gap,mid-range
+bullish,top wick,high volume,no gap,breakout level
+bullish,top wick,high volume,no gap,retest level
+bullish,bottom wick,low volume,gap up,support zone
+bullish,bottom wick,low volume,gap up,resistance zone
+bullish,bottom wick,low volume,gap up,mid-range
+bullish,bottom wick,low volume,gap up,breakout level
+bullish,bottom wick,low volume,gap up,retest level
+bullish,bottom wick,low volume,gap down,support zone
+bullish,bottom wick,low volume,gap down,resistance zone
+bullish,bottom wick,low volume,gap down,mid-range
+bullish,bottom wick,low volume,gap down,breakout level
+bullish,bottom wick,low volume,gap down,retest level
+bullish,bottom wick,low volume,no gap,support zone
+bullish,bottom wick,low volume,no gap,resistance zone
+bullish,bottom wick,low volume,no gap,mid-range
+bullish,bottom wick,low volume,no gap,breakout level
+bullish,bottom wick,low volume,no gap,retest level
+bullish,bottom wick,average volume,gap up,support zone
+bullish,bottom wick,average volume,gap up,resistance zone
+bullish,bottom wick,average volume,gap up,mid-range
+bullish,bottom wick,average volume,gap up,breakout level
+bullish,bottom wick,average volume,gap up,retest level
+bullish,bottom wick,average volume,gap down,support zone
+bullish,bottom wick,average volume,gap down,resistance zone
+bullish,bottom wick,average volume,gap down,mid-range
+bullish,bottom wick,average volume,gap down,breakout level
+bullish,bottom wick,average volume,gap down,retest level
+bullish,bottom wick,average volume,no gap,support zone
+bullish,bottom wick,average volume,no gap,resistance zone
+bullish,bottom wick,average volume,no gap,mid-range
+bullish,bottom wick,average volume,no gap,breakout level
+bullish,bottom wick,average volume,no gap,retest level
+bullish,bottom wick,high volume,gap up,support zone
+bullish,bottom wick,high volume,gap up,resistance zone
+bullish,bottom wick,high volume,gap up,mid-range
+bullish,bottom wick,high volume,gap up,breakout level
+bullish,bottom wick,high volume,gap up,retest level
+bullish,bottom wick,high volume,gap down,support zone
+bullish,bottom wick,high volume,gap down,resistance zone
+bullish,bottom wick,high volume,gap down,mid-range
+bullish,bottom wick,high volume,gap down,breakout level
+bullish,bottom wick,high volume,gap down,retest level
+bullish,bottom wick,high volume,no gap,support zone
+bullish,bottom wick,high volume,no gap,resistance zone
+bullish,bottom wick,high volume,no gap,mid-range
+bullish,bottom wick,high volume,no gap,breakout level
+bullish,bottom wick,high volume,no gap,retest level
+bullish,both wicks,low volume,gap up,support zone
+bullish,both wicks,low volume,gap up,resistance zone
+bullish,both wicks,low volume,gap up,mid-range
+bullish,both wicks,low volume,gap up,breakout level
+bullish,both wicks,low volume,gap up,retest level
+bullish,both wicks,low volume,gap down,support zone
+bullish,both wicks,low volume,gap down,resistance zone
+bullish,both wicks,low volume,gap down,mid-range
+bullish,both wicks,low volume,gap down,breakout level
+bullish,both wicks,low volume,gap down,retest level
+bullish,both wicks,low volume,no gap,support zone
+bullish,both wicks,low volume,no gap,resistance zone
+bullish,both wicks,low volume,no gap,mid-range
+bullish,both wicks,low volume,no gap,breakout level
+bullish,both wicks,low volume,no gap,retest level
+bullish,both wicks,average volume,gap up,support zone
+bullish,both wicks,average volume,gap up,resistance zone
+bullish,both wicks,average volume,gap up,mid-range
+bullish,both wicks,average volume,gap up,breakout level
+bullish,both wicks,average volume,gap up,retest level
+bullish,both wicks,average volume,gap down,support zone
+bullish,both wicks,average volume,gap down,resistance zone
+bullish,both wicks,average volume,gap down,mid-range
+bullish,both wicks,average volume,gap down,breakout level
+bullish,both wicks,average volume,gap down,retest level
+bullish,both wicks,average volume,no gap,support zone
+bullish,both wicks,average volume,no gap,resistance zone
+bullish,both wicks,average volume,no gap,mid-range
+bullish,both wicks,average volume,no gap,breakout level
+bullish,both wicks,average volume,no gap,retest level
+bullish,both wicks,high volume,gap up,support zone
+bullish,both wicks,high volume,gap up,resistance zone
+bullish,both wicks,high volume,gap up,mid-range
+bullish,both wicks,high volume,gap up,breakout level
+bullish,both wicks,high volume,gap up,retest level
+bullish,both wicks,high volume,gap down,support zone
+bullish,both wicks,high volume,gap down,resistance zone
+bullish,both wicks,high volume,gap down,mid-range
+bullish,both wicks,high volume,gap down,breakout level
+bullish,both wicks,high volume,gap down,retest level
+bullish,both wicks,high volume,no gap,support zone
+bullish,both wicks,high volume,no gap,resistance zone
+bullish,both wicks,high volume,no gap,mid-range
+bullish,both wicks,high volume,no gap,breakout level
+bullish,both wicks,high volume,no gap,retest level
+bearish,no wick,low volume,gap up,support zone
+bearish,no wick,low volume,gap up,resistance zone
+bearish,no wick,low volume,gap up,mid-range
+bearish,no wick,low volume,gap up,breakout level
+bearish,no wick,low volume,gap up,retest level
+bearish,no wick,low volume,gap down,support zone
+bearish,no wick,low volume,gap down,resistance zone
+bearish,no wick,low volume,gap down,mid-range
+bearish,no wick,low volume,gap down,breakout level
+bearish,no wick,low volume,gap down,retest level
+bearish,no wick,low volume,no gap,support zone
+bearish,no wick,low volume,no gap,resistance zone
+bearish,no wick,low volume,no gap,mid-range
+bearish,no wick,low volume,no gap,breakout level
+bearish,no wick,low volume,no gap,retest level
+bearish,no wick,average volume,gap up,support zone
+bearish,no wick,average volume,gap up,resistance zone
+bearish,no wick,average volume,gap up,mid-range
+bearish,no wick,average volume,gap up,breakout level
+bearish,no wick,average volume,gap up,retest level
+bearish,no wick,average volume,gap down,support zone
+bearish,no wick,average volume,gap down,resistance zone
+bearish,no wick,average volume,gap down,mid-range
+bearish,no wick,average volume,gap down,breakout level
+bearish,no wick,average volume,gap down,retest level
+bearish,no wick,average volume,no gap,support zone
+bearish,no wick,average volume,no gap,resistance zone
+bearish,no wick,average volume,no gap,mid-range
+bearish,no wick,average volume,no gap,breakout level
+bearish,no wick,average volume,no gap,retest level
+bearish,no wick,high volume,gap up,support zone
+bearish,no wick,high volume,gap up,resistance zone
+bearish,no wick,high volume,gap up,mid-range
+bearish,no wick,high volume,gap up,breakout level
+bearish,no wick,high volume,gap up,retest level
+bearish,no wick,high volume,gap down,support zone
+bearish,no wick,high volume,gap down,resistance zone
+bearish,no wick,high volume,gap down,mid-range
+bearish,no wick,high volume,gap down,breakout level
+bearish,no wick,high volume,gap down,retest level
+bearish,no wick,high volume,no gap,support zone
+bearish,no wick,high volume,no gap,resistance zone
+bearish,no wick,high volume,no gap,mid-range
+bearish,no wick,high volume,no gap,breakout level
+bearish,no wick,high volume,no gap,retest level
+bearish,top wick,low volume,gap up,support zone
+bearish,top wick,low volume,gap up,resistance zone
+bearish,top wick,low volume,gap up,mid-range
+bearish,top wick,low volume,gap up,breakout level
+bearish,top wick,low volume,gap up,retest level
+bearish,top wick,low volume,gap down,support zone
+bearish,top wick,low volume,gap down,resistance zone
+bearish,top wick,low volume,gap down,mid-range
+bearish,top wick,low volume,gap down,breakout level
+bearish,top wick,low volume,gap down,retest level
+bearish,top wick,low volume,no gap,support zone
+bearish,top wick,low volume,no gap,resistance zone
+bearish,top wick,low volume,no gap,mid-range
+bearish,top wick,low volume,no gap,breakout level
+bearish,top wick,low volume,no gap,retest level
+bearish,top wick,average volume,gap up,support zone
+bearish,top wick,average volume,gap up,resistance zone
+bearish,top wick,average volume,gap up,mid-range
+bearish,top wick,average volume,gap up,breakout level
+bearish,top wick,average volume,gap up,retest level
+bearish,top wick,average volume,gap down,support zone
+bearish,top wick,average volume,gap down,resistance zone
+bearish,top wick,average volume,gap down,mid-range
+bearish,top wick,average volume,gap down,breakout level
+bearish,top wick,average volume,gap down,retest level
+bearish,top wick,average volume,no gap,support zone
+bearish,top wick,average volume,no gap,resistance zone
+bearish,top wick,average volume,no gap,mid-range
+bearish,top wick,average volume,no gap,breakout level
+bearish,top wick,average volume,no gap,retest level
+bearish,top wick,high volume,gap up,support zone
+bearish,top wick,high volume,gap up,resistance zone
+bearish,top wick,high volume,gap up,mid-range
+bearish,top wick,high volume,gap up,breakout level
+bearish,top wick,high volume,gap up,retest level
+bearish,top wick,high volume,gap down,support zone
+bearish,top wick,high volume,gap down,resistance zone
+bearish,top wick,high volume,gap down,mid-range
+bearish,top wick,high volume,gap down,breakout level
+bearish,top wick,high volume,gap down,retest level
+bearish,top wick,high volume,no gap,support zone
+bearish,top wick,high volume,no gap,resistance zone
+bearish,top wick,high volume,no gap,mid-range
+bearish,top wick,high volume,no gap,breakout level
+bearish,top wick,high volume,no gap,retest level
+bearish,bottom wick,low volume,gap up,support zone
+bearish,bottom wick,low volume,gap up,resistance zone
+bearish,bottom wick,low volume,gap up,mid-range
+bearish,bottom wick,low volume,gap up,breakout level
+bearish,bottom wick,low volume,gap up,retest level
+bearish,bottom wick,low volume,gap down,support zone
+bearish,bottom wick,low volume,gap down,resistance zone
+bearish,bottom wick,low volume,gap down,mid-range
+bearish,bottom wick,low volume,gap down,breakout level
+bearish,bottom wick,low volume,gap down,retest level
+bearish,bottom wick,low volume,no gap,support zone
+bearish,bottom wick,low volume,no gap,resistance zone
+bearish,bottom wick,low volume,no gap,mid-range
+bearish,bottom wick,low volume,no gap,breakout level
+bearish,bottom wick,low volume,no gap,retest level
+bearish,bottom wick,average volume,gap up,support zone
+bearish,bottom wick,average volume,gap up,resistance zone
+bearish,bottom wick,average volume,gap up,mid-range
+bearish,bottom wick,average volume,gap up,breakout level
+bearish,bottom wick,average volume,gap up,retest level
+bearish,bottom wick,average volume,gap down,support zone
+bearish,bottom wick,average volume,gap down,resistance zone
+bearish,bottom wick,average volume,gap down,mid-range
+bearish,bottom wick,average volume,gap down,breakout level
+bearish,bottom wick,average volume,gap down,retest level
+bearish,bottom wick,average volume,no gap,support zone
+bearish,bottom wick,average volume,no gap,resistance zone
+bearish,bottom wick,average volume,no gap,mid-range
+bearish,bottom wick,average volume,no gap,breakout level
+bearish,bottom wick,average volume,no gap,retest level
+bearish,bottom wick,high volume,gap up,support zone
+bearish,bottom wick,high volume,gap up,resistance zone
+bearish,bottom wick,high volume,gap up,mid-range
+bearish,bottom wick,high volume,gap up,breakout level
+bearish,bottom wick,high volume,gap up,retest level
+bearish,bottom wick,high volume,gap down,support zone
+bearish,bottom wick,high volume,gap down,resistance zone
+bearish,bottom wick,high volume,gap down,mid-range
+bearish,bottom wick,high volume,gap down,breakout level
+bearish,bottom wick,high volume,gap down,retest level
+bearish,bottom wick,high volume,no gap,support zone
+bearish,bottom wick,high volume,no gap,resistance zone
+bearish,bottom wick,high volume,no gap,mid-range
+bearish,bottom wick,high volume,no gap,breakout level
+bearish,bottom wick,high volume,no gap,retest level
+bearish,both wicks,low volume,gap up,support zone
+bearish,both wicks,low volume,gap up,resistance zone
+bearish,both wicks,low volume,gap up,mid-range
+bearish,both wicks,low volume,gap up,breakout level
+bearish,both wicks,low volume,gap up,retest level
+bearish,both wicks,low volume,gap down,support zone
+bearish,both wicks,low volume,gap down,resistance zone
+bearish,both wicks,low volume,gap down,mid-range
+bearish,both wicks,low volume,gap down,breakout level
+bearish,both wicks,low volume,gap down,retest level
+bearish,both wicks,low volume,no gap,support zone
+bearish,both wicks,low volume,no gap,resistance zone
+bearish,both wicks,low volume,no gap,mid-range
+bearish,both wicks,low volume,no gap,breakout level
+bearish,both wicks,low volume,no gap,retest level
+bearish,both wicks,average volume,gap up,support zone
+bearish,both wicks,average volume,gap up,resistance zone
+bearish,both wicks,average volume,gap up,mid-range
+bearish,both wicks,average volume,gap up,breakout level
+bearish,both wicks,average volume,gap up,retest level
+bearish,both wicks,average volume,gap down,support zone
+bearish,both wicks,average volume,gap down,resistance zone
+bearish,both wicks,average volume,gap down,mid-range
+bearish,both wicks,average volume,gap down,breakout level
+bearish,both wicks,average volume,gap down,retest level
+bearish,both wicks,average volume,no gap,support zone
+bearish,both wicks,average volume,no gap,resistance zone
+bearish,both wicks,average volume,no gap,mid-range
+bearish,both wicks,average volume,no gap,breakout level
+bearish,both wicks,average volume,no gap,retest level
+bearish,both wicks,high volume,gap up,support zone
+bearish,both wicks,high volume,gap up,resistance zone
+bearish,both wicks,high volume,gap up,mid-range
+bearish,both wicks,high volume,gap up,breakout level
+bearish,both wicks,high volume,gap up,retest level
+bearish,both wicks,high volume,gap down,support zone
+bearish,both wicks,high volume,gap down,resistance zone
+bearish,both wicks,high volume,gap down,mid-range
+bearish,both wicks,high volume,gap down,breakout level
+bearish,both wicks,high volume,gap down,retest level
+bearish,both wicks,high volume,no gap,support zone
+bearish,both wicks,high volume,no gap,resistance zone
+bearish,both wicks,high volume,no gap,mid-range
+bearish,both wicks,high volume,no gap,breakout level
+bearish,both wicks,high volume,no gap,retest level
+doji,no wick,low volume,gap up,support zone
+doji,no wick,low volume,gap up,resistance zone
+doji,no wick,low volume,gap up,mid-range
+doji,no wick,low volume,gap up,breakout level
+doji,no wick,low volume,gap up,retest level
+doji,no wick,low volume,gap down,support zone
+doji,no wick,low volume,gap down,resistance zone
+doji,no wick,low volume,gap down,mid-range
+doji,no wick,low volume,gap down,breakout level
+doji,no wick,low volume,gap down,retest level
+doji,no wick,low volume,no gap,support zone
+doji,no wick,low volume,no gap,resistance zone
+doji,no wick,low volume,no gap,mid-range
+doji,no wick,low volume,no gap,breakout level
+doji,no wick,low volume,no gap,retest level
+doji,no wick,average volume,gap up,support zone
+doji,no wick,average volume,gap up,resistance zone
+doji,no wick,average volume,gap up,mid-range
+doji,no wick,average volume,gap up,breakout level
+doji,no wick,average volume,gap up,retest level
+doji,no wick,average volume,gap down,support zone
+doji,no wick,average volume,gap down,resistance zone
+doji,no wick,average volume,gap down,mid-range
+doji,no wick,average volume,gap down,breakout level
+doji,no wick,average volume,gap down,retest level
+doji,no wick,average volume,no gap,support zone
+doji,no wick,average volume,no gap,resistance zone
+doji,no wick,average volume,no gap,mid-range
+doji,no wick,average volume,no gap,breakout level
+doji,no wick,average volume,no gap,retest level
+doji,no wick,high volume,gap up,support zone
+doji,no wick,high volume,gap up,resistance zone
+doji,no wick,high volume,gap up,mid-range
+doji,no wick,high volume,gap up,breakout level
+doji,no wick,high volume,gap up,retest level
+doji,no wick,high volume,gap down,support zone
+doji,no wick,high volume,gap down,resistance zone
+doji,no wick,high volume,gap down,mid-range
+doji,no wick,high volume,gap down,breakout level
+doji,no wick,high volume,gap down,retest level
+doji,no wick,high volume,no gap,support zone
+doji,no wick,high volume,no gap,resistance zone
+doji,no wick,high volume,no gap,mid-range
+doji,no wick,high volume,no gap,breakout level
+doji,no wick,high volume,no gap,retest level
+doji,top wick,low volume,gap up,support zone
+doji,top wick,low volume,gap up,resistance zone
+doji,top wick,low volume,gap up,mid-range
+doji,top wick,low volume,gap up,breakout level
+doji,top wick,low volume,gap up,retest level
+doji,top wick,low volume,gap down,support zone
+doji,top wick,low volume,gap down,resistance zone
+doji,top wick,low volume,gap down,mid-range
+doji,top wick,low volume,gap down,breakout level
+doji,top wick,low volume,gap down,retest level
+doji,top wick,low volume,no gap,support zone
+doji,top wick,low volume,no gap,resistance zone
+doji,top wick,low volume,no gap,mid-range
+doji,top wick,low volume,no gap,breakout level
+doji,top wick,low volume,no gap,retest level
+doji,top wick,average volume,gap up,support zone
+doji,top wick,average volume,gap up,resistance zone
+doji,top wick,average volume,gap up,mid-range
+doji,top wick,average volume,gap up,breakout level
+doji,top wick,average volume,gap up,retest level
+doji,top wick,average volume,gap down,support zone
+doji,top wick,average volume,gap down,resistance zone
+doji,top wick,average volume,gap down,mid-range
+doji,top wick,average volume,gap down,breakout level
+doji,top wick,average volume,gap down,retest level
+doji,top wick,average volume,no gap,support zone
+doji,top wick,average volume,no gap,resistance zone
+doji,top wick,average volume,no gap,mid-range
+doji,top wick,average volume,no gap,breakout level
+doji,top wick,average volume,no gap,retest level
+doji,top wick,high volume,gap up,support zone
+doji,top wick,high volume,gap up,resistance zone
+doji,top wick,high volume,gap up,mid-range
+doji,top wick,high volume,gap up,breakout level
+doji,top wick,high volume,gap up,retest level
+doji,top wick,high volume,gap down,support zone
+doji,top wick,high volume,gap down,resistance zone
+doji,top wick,high volume,gap down,mid-range
+doji,top wick,high volume,gap down,breakout level
+doji,top wick,high volume,gap down,retest level
+doji,top wick,high volume,no gap,support zone
+doji,top wick,high volume,no gap,resistance zone
+doji,top wick,high volume,no gap,mid-range
+doji,top wick,high volume,no gap,breakout level
+doji,top wick,high volume,no gap,retest level
+doji,bottom wick,low volume,gap up,support zone
+doji,bottom wick,low volume,gap up,resistance zone
+doji,bottom wick,low volume,gap up,mid-range
+doji,bottom wick,low volume,gap up,breakout level
+doji,bottom wick,low volume,gap up,retest level
+doji,bottom wick,low volume,gap down,support zone
+doji,bottom wick,low volume,gap down,resistance zone
+doji,bottom wick,low volume,gap down,mid-range
+doji,bottom wick,low volume,gap down,breakout level
+doji,bottom wick,low volume,gap down,retest level
+doji,bottom wick,low volume,no gap,support zone
+doji,bottom wick,low volume,no gap,resistance zone
+doji,bottom wick,low volume,no gap,mid-range
+doji,bottom wick,low volume,no gap,breakout level
+doji,bottom wick,low volume,no gap,retest level
+doji,bottom wick,average volume,gap up,support zone
+doji,bottom wick,average volume,gap up,resistance zone
+doji,bottom wick,average volume,gap up,mid-range
+doji,bottom wick,average volume,gap up,breakout level
+doji,bottom wick,average volume,gap up,retest level
+doji,bottom wick,average volume,gap down,support zone
+doji,bottom wick,average volume,gap down,resistance zone
+doji,bottom wick,average volume,gap down,mid-range
+doji,bottom wick,average volume,gap down,breakout level
+doji,bottom wick,average volume,gap down,retest level
+doji,bottom wick,average volume,no gap,support zone
+doji,bottom wick,average volume,no gap,resistance zone
+doji,bottom wick,average volume,no gap,mid-range
+doji,bottom wick,average volume,no gap,breakout level
+doji,bottom wick,average volume,no gap,retest level
+doji,bottom wick,high volume,gap up,support zone
+doji,bottom wick,high volume,gap up,resistance zone
+doji,bottom wick,high volume,gap up,mid-range
+doji,bottom wick,high volume,gap up,breakout level
+doji,bottom wick,high volume,gap up,retest level
+doji,bottom wick,high volume,gap down,support zone
+doji,bottom wick,high volume,gap down,resistance zone
+doji,bottom wick,high volume,gap down,mid-range
+doji,bottom wick,high volume,gap down,breakout level
+doji,bottom wick,high volume,gap down,retest level
+doji,bottom wick,high volume,no gap,support zone
+doji,bottom wick,high volume,no gap,resistance zone
+doji,bottom wick,high volume,no gap,mid-range
+doji,bottom wick,high volume,no gap,breakout level
+doji,bottom wick,high volume,no gap,retest level
+doji,both wicks,low volume,gap up,support zone
+doji,both wicks,low volume,gap up,resistance zone
+doji,both wicks,low volume,gap up,mid-range
+doji,both wicks,low volume,gap up,breakout level
+doji,both wicks,low volume,gap up,retest level
+doji,both wicks,low volume,gap down,support zone
+doji,both wicks,low volume,gap down,resistance zone
+doji,both wicks,low volume,gap down,mid-range
+doji,both wicks,low volume,gap down,breakout level
+doji,both wicks,low volume,gap down,retest level
+doji,both wicks,low volume,no gap,support zone
+doji,both wicks,low volume,no gap,resistance zone
+doji,both wicks,low volume,no gap,mid-range
+doji,both wicks,low volume,no gap,breakout level
+doji,both wicks,low volume,no gap,retest level
+doji,both wicks,average volume,gap up,support zone
+doji,both wicks,average volume,gap up,resistance zone
+doji,both wicks,average volume,gap up,mid-range
+doji,both wicks,average volume,gap up,breakout level
+doji,both wicks,average volume,gap up,retest level
+doji,both wicks,average volume,gap down,support zone
+doji,both wicks,average volume,gap down,resistance zone
+doji,both wicks,average volume,gap down,mid-range
+doji,both wicks,average volume,gap down,breakout level
+doji,both wicks,average volume,gap down,retest level
+doji,both wicks,average volume,no gap,support zone
+doji,both wicks,average volume,no gap,resistance zone
+doji,both wicks,average volume,no gap,mid-range
+doji,both wicks,average volume,no gap,breakout level
+doji,both wicks,average volume,no gap,retest level
+doji,both wicks,high volume,gap up,support zone
+doji,both wicks,high volume,gap up,resistance zone
+doji,both wicks,high volume,gap up,mid-range
+doji,both wicks,high volume,gap up,breakout level
+doji,both wicks,high volume,gap up,retest level
+doji,both wicks,high volume,gap down,support zone
+doji,both wicks,high volume,gap down,resistance zone
+doji,both wicks,high volume,gap down,mid-range
+doji,both wicks,high volume,gap down,breakout level
+doji,both wicks,high volume,gap down,retest level
+doji,both wicks,high volume,no gap,support zone
+doji,both wicks,high volume,no gap,resistance zone
+doji,both wicks,high volume,no gap,mid-range
+doji,both wicks,high volume,no gap,breakout level
+doji,both wicks,high volume,no gap,retest level

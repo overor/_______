@@ -1,0 +1,41 @@
+system_name: Semantic Compression Protocol
+layers:
+- name: Layer 1
+  component: Blockchain APIs
+  role: Entropy source + validator of inflation mechanics
+  endpoints:
+  - https://blockstream.info/api/
+  - https://mainnet.infura.io/v3/YOUR_PROJECT_ID
+  - https://api.mainnet-beta.solana.com
+  - https://polygon-rpc.com
+- name: Layer 2
+  component: Research Feeds (APIs)
+  role: Semantic entropy input (real-time knowledge stream)
+  endpoints:
+  - https://api.crossref.org/works
+  - http://export.arxiv.org/api/query
+  - https://eutils.ncbi.nlm.nih.gov/entrez/eutils/
+  - https://api.semanticscholar.org/graph/v1/
+  - https://core.ac.uk:443/api-v2/search/
+  - https://api.unpaywall.org/v2/{DOI}
+- name: Layer 3
+  component: Aider / LLM Engine
+  role: Compressor of entropy into insight (semantic ASIC)
+  tools:
+  - Aider
+  - SciSpace LLM
+  - OpenAI API
+- name: Layer 4
+  component: Insight Block Generator
+  role: Validated semantic block minting & output
+  features:
+  - Research synthesis
+  - Entropy reduction
+  - Insight packaging
+- name: Layer 5
+  component: Semantic Knowledge Economy
+  role: Economic utility layer (insight = purchasing power)
+  outputs:
+  - Semantic Tokens
+  - Insight Metrics
+  - Valuation Ledger
