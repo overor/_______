@@ -1,0 +1,344 @@
+{
+  "applets": [{
+    "lastAccessTime": "2025-11-01T13:02:14.739597Z",
+    "firstAccessTime": "2025-10-14T12:47:17.304859Z",
+    "source": {
+      "drive": {
+        "resourceId": "131ZK4ngj-sEIzNFCeSoKXASGUI5v1ET-",
+        "revisionId": "0B8L1Li-UDOEKUXBnZmEzbVVLTTlPczIyYzNFcVVqcmFueC9VPQ"
+      }
+    },
+    "name": "Copy of FlashGuard: Multi-Chain Flash Loan Scanner",
+    "description": "A sophisticated, simulated flash loan opportunity scanner for non-ETH blockchains. It provides a real-time feed of potential arbitrage opportunities and leverages AI to generate hypothetical strategy analysis for educational purposes."
+  }, {
+    "lastAccessTime": "2025-11-01T13:02:02.672714Z",
+    "firstAccessTime": "2025-10-13T22:16:41.900904Z",
+    "source": {
+      "drive": {
+        "resourceId": "1Lye_yIhBWHqNHYi6v-eYh-WGQ_JYsdF8",
+        "revisionId": "0B8L1Li-UDOEKbCtPaldiWkJWa29MaTZrVHN2K2F0Y1gwa2VFPQ"
+      }
+    },
+    "name": "DevDeploy IDE",
+    "description": "A web-based IDE for Python and Solidity, leveraging AI to analyze code, generate tests, and simulate smart contract deployments on the Ethereum mainnet."
+  }, {
+    "lastAccessTime": "2025-10-31T06:41:35.346100Z",
+    "firstAccessTime": "2025-10-15T04:04:09.482386Z",
+    "source": {
+      "drive": {
+        "resourceId": "1Qps8pvPU_mwATSQiCdIxSDKVjDru98pI",
+        "revisionId": "0B8L1Li-UDOEKdHNXcUZQa2wxQm9mZW43bmM3YmUwZjhLZFF3PQ"
+      }
+    },
+    "name": "Bureaucrat Valuation Dashboard",
+    "description": "An interactive dashboard to explore and visualize the Bureaucrat Grade Valuation \u0026 Attestation Package, including session data, financial models, and an interactive Merkle Tree of exhibits."
+  }, {
+    "lastAccessTime": "2025-10-30T16:48:55.715341Z",
+    "firstAccessTime": "2025-10-15T03:15:04.176625Z",
+    "source": {
+      "drive": {
+        "resourceId": "1sZ7KYzNq8SGwyK_NTw03Sp3rhjrmrQ1M",
+        "revisionId": "0B8L1Li-UDOEKV2RHTDB6Y3hFcGdtTE4rMkdJUUpIUG1tbXlnPQ"
+      }
+    },
+    "name": "Gemini VM Terminal",
+    "description": "A futuristic, cyberpunk-themed terminal interface that chains user commands to the Gemini LLM, creating the illusion of interacting with a real AI-powered virtual machine."
+  }, {
+    "lastAccessTime": "2025-10-26T22:48:08.868159Z",
+    "firstAccessTime": "2025-10-14T14:15:40.263899Z",
+    "source": {
+      "drive": {
+        "resourceId": "17nm_zvOoCtgXtNTM2OKEAo6PhAMb0WdJ",
+        "revisionId": "0B8L1Li-UDOEKNGVhcU15ZG5heHI0QzZscGR4anhGWGF6Vkw0PQ"
+      }
+    },
+    "name": "L2 Tokenomics IDE",
+    "description": "A DApp-like IDE to generate and simulate the deployment of ERC20 token contracts with custom tokenomics to non-ETH L2 testnets using AI."
+  }, {
+    "lastAccessTime": "2025-10-26T22:46:37.613053Z",
+    "firstAccessTime": "2025-10-14T12:39:05.108146Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "get_started"
+      }
+    },
+    "name": "Get Started with the Gemini JS SDK",
+    "description": "Discover how to take your first steps with the Gemini JS SDK in an interactive way. No need to create an API key or set up your environment."
+  }, {
+    "lastAccessTime": "2025-10-26T22:45:30.418088Z",
+    "firstAccessTime": "2025-10-13T21:38:03.254234Z",
+    "source": {
+      "drive": {
+        "resourceId": "1mFWz3ZJVJ9DQTXSxBGS3GqkaTHiSY8WT",
+        "revisionId": "0B8L1Li-UDOEKRkgxU3FWS21pemhsVE9vYWJtMHhUSldYRTFZPQ"
+      }
+    },
+    "name": "FlashGuard: Multi-Chain Flash Loan Scanner",
+    "description": "A sophisticated, simulated flash loan opportunity scanner for non-ETH blockchains. It provides a real-time feed of potential arbitrage opportunities and leverages AI to generate hypothetical strategy analysis for educational purposes."
+  }, {
+    "lastAccessTime": "2025-10-26T22:40:47.587208Z",
+    "firstAccessTime": "2025-10-09T02:02:40.266291Z",
+    "source": {
+      "drive": {
+        "resourceId": "13eC_s7UJ1rCYMCgkd8y-6w2n0faBf_FX",
+        "revisionId": "0B8L1Li-UDOEKSUx5b28yV3hTb2krR0pRZG5RVHU1WklNNkowPQ"
+      }
+    },
+    "name": "Gemini Code Rewriter",
+    "description": "An automated code review tool powered by Gemini. Get detailed feedback and rewrite suggestions to improve your code quality, clarity, and performance."
+  }, {
+    "lastAccessTime": "2025-10-26T22:40:34.709480Z",
+    "firstAccessTime": "2025-10-09T13:19:51.958306Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "get_started_image_out"
+      }
+    },
+    "name": "Get Started with Gemini 2.5 Flash Image",
+    "description": "Discover how to use the Gemini 2.5 image model (aka nano banana) using the Gemini JS SDK in an interactive way. No need to create an API key or set up your environment."
+  }, {
+    "lastAccessTime": "2025-10-15T04:00:22.315569Z",
+    "firstAccessTime": "2025-10-14T13:18:45.047744Z",
+    "source": {
+      "drive": {
+        "resourceId": "1XpGJzWtNrw4kwlQ2TeMW_380k36KZlMd",
+        "revisionId": "0B8L1Li-UDOEKeGlNWXI2QXp3UjJJMVRMS1YwSlRUTW5Fd09VPQ"
+      }
+    },
+    "name": "AI Auditor \u0026 Stream Analyzer",
+    "description": "An advanced tool that leverages AI to perform security audits on smart contracts and devise monetization strategies for real-time WebSocket data streams."
+  }, {
+    "lastAccessTime": "2025-10-14T12:47:40.131328Z",
+    "firstAccessTime": "2025-10-13T14:57:29.859765Z",
+    "source": {
+      "drive": {
+        "resourceId": "1C8auB96H31c7uLv7-eAy3bpZtHWq5ct6",
+        "revisionId": "0B8L1Li-UDOEKbEN4SGIrM1JCK01QaGprU0diTVo0NmpnOE9ZPQ"
+      }
+    },
+    "name": "Data Conversation AI",
+    "description": "An application to analyze and chat with your data extracts. Paste your data and start asking questions to gain insights instantly."
+  }, {
+    "lastAccessTime": "2025-10-14T12:46:44.522296Z",
+    "firstAccessTime": "2025-10-13T22:26:16.233443Z",
+    "source": {
+      "drive": {
+        "resourceId": "1w58t0D8xuWLH23gZ5zYuCEW-C39Tu0vr",
+        "revisionId": "0B8L1Li-UDOEKbGxOdjQyT0dCMzk5V1d1d1d3Rmh6TWN3UmFJPQ"
+      }
+    },
+    "name": "Copy of DevDeploy IDE",
+    "description": "A web-based IDE for Python and Solidity, leveraging AI to analyze code, generate tests, and simulate smart contract deployments on the Ethereum mainnet."
+  }, {
+    "lastAccessTime": "2025-10-14T12:38:09.658144Z",
+    "firstAccessTime": "2025-10-14T12:20:02.997253Z",
+    "source": {
+      "drive": {
+        "resourceId": "1xr0wc_B2ZZtXi_2s_qdyoZOICLFmWWq8",
+        "revisionId": "0B8L1Li-UDOEKY1RKamsyNkRZSjJLVzJnMkxWUkdzRFpzK0VRPQ"
+      }
+    },
+    "name": "Copy of WebSocket Endpoint Analyzer",
+    "description": "An advanced tool to upload, visualize, and analyze WebSocket endpoint data from a CSV file. Leveraging the Gemini API, it provides intelligent insights to help developers and analysts identify the most promising and cost-effective real-time data streams."
+  }, {
+    "lastAccessTime": "2025-10-14T12:37:47.577483Z",
+    "firstAccessTime": "2025-10-14T12:18:46.752025Z",
+    "source": {
+      "drive": {
+        "resourceId": "10oM4F_tMDqjcKlADbpcYrqI1InplXo4S",
+        "revisionId": "0B8L1Li-UDOEKcFZSb2lucTR0SHB2Qi9QMUxMd3dMREJQRUswPQ"
+      }
+    },
+    "name": "Copy of WebSocket Endpoint Analyzer",
+    "description": "An advanced tool to upload, visualize, and analyze WebSocket endpoint data from a CSV file. Leveraging the Gemini API, it provides intelligent insights to help developers and analysts identify the most promising and cost-effective real-time data streams."
+  }, {
+    "lastAccessTime": "2025-10-14T12:14:50.451855Z",
+    "firstAccessTime": "2025-10-14T12:14:50.451855Z",
+    "source": {
+      "drive": {
+        "resourceId": "1tN-dl6m5XkkWSSZJ57BV6x2IWvWuEt_b",
+        "revisionId": "0B8L1Li-UDOEKdlZIVHJyTVdYNWZZTFFFSGV2VUxkTnZkMDI4PQ"
+      }
+    },
+    "name": "Creative Story Writer",
+    "description": "An AI-powered application that generates short, creative stories from a simple prompt using the Gemini API. Enter an idea and watch a unique tale unfold."
+  }, {
+    "lastAccessTime": "2025-10-14T12:11:45.960111Z",
+    "firstAccessTime": "2025-10-14T12:11:45.960111Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "promptdj-midi"
+      }
+    },
+    "name": "PromptDJ MIDI",
+    "description": "Control real time music with a MIDI controller."
+  }, {
+    "lastAccessTime": "2025-10-13T22:14:07.426416Z",
+    "firstAccessTime": "2025-10-13T22:13:30.887996Z",
+    "source": {
+      "drive": {
+        "resourceId": "1ssTc8BwNxXQjaS05-AmuuY40yx7W_JNz",
+        "revisionId": "0B8L1Li-UDOEKb1gzWXNiRFhRUU1ldUpTcGVKZmsrUmpQZERFPQ"
+      }
+    },
+    "name": "OpenAI SDK compatibility",
+    "description": "Access Gemini models with the OpenAI SDK"
+  }, {
+    "lastAccessTime": "2025-10-13T22:06:03.457277Z",
+    "firstAccessTime": "2025-10-13T22:06:03.457277Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "openai_sdk_compatibility_layer"
+      }
+    },
+    "name": "OpenAI SDK compatibility",
+    "description": "Access Gemini models with the OpenAI SDK"
+  }, {
+    "lastAccessTime": "2025-10-13T21:50:55.089832Z",
+    "firstAccessTime": "2025-10-10T02:04:55.246237Z",
+    "source": {
+      "drive": {
+        "resourceId": "13NU_QiPvcBxNOdGKs0Nn5tcWI1og742l",
+        "revisionId": "0B8L1Li-UDOEKYUZBQVRWaGFJVjZsS3FFdHFiemloTkVIa1RRPQ"
+      }
+    },
+    "name": "Solidity Smart Contract Analyzer",
+    "description": "An application to interact with and analyze a Time-Locked Revenue Bond Token smart contract. It provides a user-friendly dashboard to create bonds, claim revenue, and uses AI to explain the contract\u0027s functionality."
+  }, {
+    "lastAccessTime": "2025-10-13T21:30:49.440976Z",
+    "firstAccessTime": "2025-10-13T21:30:49.440976Z",
+    "source": {
+      "drive": {
+        "resourceId": "1wB6lRE6Ca4tSzwRD4y3PuKx8GAYrB2nA",
+        "revisionId": "0B8L1Li-UDOEKOFBMZ29TVEhLZmJKYmtRbWZ4eWZpZzZRcE9BPQ"
+      }
+    },
+    "name": "MEV Bot Simulation Dashboard",
+    "description": "A sophisticated, command-line-based DApp UI designed for specialized financial research and MEV (Maximal Extractable Value) simulation within the blockchain ecosystem."
+  }, {
+    "lastAccessTime": "2025-10-13T14:48:04.729178Z",
+    "firstAccessTime": "2025-10-13T14:48:04.729178Z",
+    "source": {
+      "drive": {
+        "resourceId": "18aPOZJ-Swj4EQ5J7McTeBl5AITOV7lUZ",
+        "revisionId": "0B8L1Li-UDOEKSWJzOS94VDFIMisvWmRiTEFCWVdUY2tDSUxFPQ"
+      }
+    },
+    "name": "Google Cloud AI Pipeline Dashboard",
+    "description": "An interactive dashboard visualizing a GPT data processing pipeline on Google Cloud, from data upload and model training to Web3 integration, based on a stylized guide."
+  }, {
+    "lastAccessTime": "2025-10-10T14:33:40.155556Z",
+    "firstAccessTime": "2025-10-09T14:32:59.880143Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "gemini_live"
+      }
+    },
+    "name": "Live",
+    "description": "Create a live agent using bidirectional streaming"
+  }, {
+    "lastAccessTime": "2025-10-10T14:33:16.571940Z",
+    "firstAccessTime": "2025-10-10T02:17:07.396590Z",
+    "source": {
+      "drive": {
+        "resourceId": "1jlxq1A2jGq8olJzTpfo0nRQotH_GDCxM",
+        "revisionId": "0B8L1Li-UDOEKTXM1b0FnVXAvY01RSTJGSjI4dUVwY1l1V0F3PQ"
+      }
+    },
+    "name": "FlashForce Executor",
+    "description": "A sophisticated interface for building, analyzing, and executing complex multi-step, multi-chain, and multi-DEX flash loan strategies. Leverage AI-powered analysis to identify risks and opportunities before execution."
+  }, {
+    "lastAccessTime": "2025-10-10T02:00:49.338592Z",
+    "firstAccessTime": "2025-10-10T02:00:49.338592Z",
+    "source": {
+      "drive": {
+        "resourceId": "1QYWpDH47JN3umBg-Es_8m2DJnQWC2iKC",
+        "revisionId": "0B8L1Li-UDOEKSnc0NVJOa21ybWhHL3lBamNyUjhxa1g5d2trPQ"
+      }
+    },
+    "name": "Solidity Smart Contract Analyzer",
+    "description": "An interactive web dashboard to analyze and simulate interactions with a Solidity smart contract for Time-Locked Revenue Bonds. This application uses Gemini to provide a detailed audit and explanation of the contract\u0027s functionality, security, and economic model."
+  }, {
+    "lastAccessTime": "2025-10-09T15:04:21.317963Z",
+    "firstAccessTime": "2025-10-09T15:04:21.317963Z",
+    "source": {
+      "drive": {
+        "resourceId": "10Qxvb7w6hVnqUETpihfyI6BV-dxdF1xQ",
+        "revisionId": "0B8L1Li-UDOEKM01WcGNxMFdaQSt5dnJBSy9IaDdJM3BmSVhVPQ"
+      }
+    },
+    "name": "Quick Car Insurance Quiz",
+    "description": "A simple, 60-second quiz to find top car insurance offers catered to your specific driving preferences and zip code. Save up to 50% on your car insurance."
+  }, {
+    "lastAccessTime": "2025-10-09T15:01:46.342723Z",
+    "firstAccessTime": "2025-10-09T14:31:46.983851Z",
+    "source": {
+      "drive": {
+        "resourceId": "11B8n1-vzxEWd7tLIp7LM_s0NY4LDOVBJ",
+        "revisionId": "0B8L1Li-UDOEKODlzaFBueWpxaTNFMldDTnk1NVpsQjUvVHNFPQ"
+      }
+    },
+    "name": "Dormancy Stablecoin Dashboard",
+    "description": "A sophisticated dashboard to monitor and manage the Dormancy Stablecoin system. It provides real-time insights into liquidity, appraisal values, and autominting performance, with administrative controls for system parameters."
+  }, {
+    "lastAccessTime": "2025-10-09T14:58:32.854746Z",
+    "firstAccessTime": "2025-10-09T14:58:32.854746Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "native_audio_function_call_sandbox"
+      }
+    },
+    "name": "Native Audio Function Call Sandbox",
+    "description": "Build your own Native Audio Function Call app! An interactive sandbox for experimenting with native audio streaming and function calling using the Gemini API."
+  }, {
+    "lastAccessTime": "2025-10-09T13:18:57.585791Z",
+    "firstAccessTime": "2025-10-09T13:02:02.032473Z",
+    "source": {
+      "drive": {
+        "resourceId": "13Vyx8snDVYosIZeQtgzdZ_kYvgqgFmTe",
+        "revisionId": "0B8L1Li-UDOEKa2JkNXpLUHVmSGM5RW52VWJ5eEJVUEJQdFlNPQ"
+      }
+    },
+    "name": "Prompt Price Discovery Curve™",
+    "description": "A dApp to track and visualize the value of Prompt Objects™ as they move through the Prompt Price Discovery Curve™ from raw thought to tokenized intellectual capital."
+  }, {
+    "lastAccessTime": "2025-10-09T12:59:46.476189Z",
+    "firstAccessTime": "2025-10-09T12:59:46.476189Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "runchase"
+      }
+    },
+    "name": "Run Chase",
+    "description": "An arcade cricket game which uses the Gemini Live API to dynamically generate commentary on the game"
+  }, {
+    "lastAccessTime": "2025-10-09T03:56:03.738782Z",
+    "firstAccessTime": "2025-10-09T03:56:03.738782Z",
+    "source": {
+      "drive": {
+        "resourceId": "1UbbmUldkoptDq1zVgxYuzOxZ22Pk6t7j",
+        "revisionId": "0B8L1Li-UDOEKYXQ0QVdYNFlLeXhzSWhFRmFYbHNJSk5iaU1jPQ"
+      }
+    },
+    "name": "Gemini Code Reviewer",
+    "description": "An AI-powered code review tool that uses Google\u0027s Gemini API to analyze your code for bugs, style issues, and potential improvements, providing structured feedback to help you write better code."
+  }, {
+    "lastAccessTime": "2025-09-14T12:05:59.061994Z",
+    "firstAccessTime": "2025-09-14T12:05:59.061994Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "pixshop"
+      }
+    },
+    "name": "Pixshop",
+    "description": "A powerful, AI photo editor. Retouch, apply creative filters, and make professional adjustments to your images using simple text prompts."
+  }]
+}

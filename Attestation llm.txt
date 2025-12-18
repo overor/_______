@@ -1,0 +1,67 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+/**
+ * @title AuditReportStore
+ * @author Audit Intelligence System (AIS)
+ * @notice The minimal, gas-efficient contract for on-chain attestation. 
+ * This establishes the system's reputation and enables the 'Sovereign Audit' tier.
+ * It is the immutable 'Settlement Layer' for the AI auditor's results.
+ */
+contract AuditReportStore {
+    // Maps the cryptographically secure hash of the audited code to the immutable report hash.
+    // codeHash: Typically keccak256(solidity_code)
+    // reportHash: Typically the IPFS or Arweave hash/URI of the final, signed report JSON.
+    mapping(bytes32 /* codeHash */ => bytes32 /* reportHash */) public certifiedReports;
+    
+    // Address of the trusted AI system's wallet or an approved Governance member.
+    // Only this address can certify a report, building the system's on-chain reputation.
+    address public trustedAuditor;
+
+    // Event to provide a clear, gas-efficient log of all certifications for off-chain indexing.
+    event AuditCertified(
+        bytes32 indexed codeHash,
+        bytes32 indexed reportHash,
+        address indexed auditor,
+        uint256 timestamp
+    );
+
+    /**
+     * @notice Sets the initial trusted Auditor address (the AIS's dedicated wallet).
+     * @param _trustedAuditor The address authorized to certify audits.
+     */
+    constructor(address _trustedAuditor) {
+        trustedAuditor = _trustedAuditor;
+    }
+
+    /**
+     * @notice Allows the trusted AI system to immutably record a successful audit.
+     * @dev This function is externally called by the off-chain AIS API (the trustedAuditor).
+     * @param _codeHash The unique hash of the code version that was audited.
+     * @param _reportHash The unique hash/URI pointing to the immutable audit report.
+     */
+    function certifyAudit(bytes32 _codeHash, bytes32 _reportHash) external {
+        // Only the trusted, reputation-accruing AIS wallet can call this.
+        require(msg.sender == trustedAuditor, "AS: Unauthorized auditor");
+
+        // Basic data validation
+        require(_codeHash != 0, "AS: Invalid codeHash");
+        require(_reportHash != 0, "AS: Invalid reportHash");
+        
+        // Record the immutable link between code and report
+        certifiedReports[_codeHash] = _reportHash;
+
+        // Log the event for maximum transparency and external monitoring.
+        emit AuditCertified(_codeHash, _reportHash, msg.sender, block.timestamp);
+    }
+
+    /**
+     * @notice Allows any user to verify if a given code version has been certified.
+     * @param _codeHash The code hash to check.
+     * @return The immutable report hash, or bytes32(0) if not certified.
+     */
+    function getCertifiedReport(bytes32 _codeHash) public view returns (bytes32) {
+        return certifiedReports[_codeHash];
+    }
+}
+
